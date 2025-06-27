@@ -3,7 +3,7 @@
 A simple yet effective machine learning application that detects whether a news article is **fake** or **real** based on its content. Built with Python, Scikit-learn, and Streamlit for an interactive web interface.
 
 ---
-##explore it here: 
+## explore it here: 
 https://try-fake-news-detector.streamlit.app/
 ---
 
