@@ -1,1 +1,6 @@
 joblib==1.4.0
+streamlit
+pandas
+nltk
+joblib
+scikit-learn
